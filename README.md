@@ -11,7 +11,7 @@ Result: 1. Can be controled when we need to start record the movement or not.
         4. The page can be switched by sliding the left or right edges of the screen.
         5. Every page can be slided up and down to scan.
 
-Continue...
+To be continued...
         
 ![Image](https://github.com/koakuma666/Individual-Project/blob/master/Images/project_1.png)
 
