@@ -7,9 +7,10 @@ Graphic Library: Light and Versatile Graphic Library (LittlevGL)
 
 Result: 1. Can be controled when we need to start record the movement or not. 
         2. Record the sports time and show the steps, distance, energy and speed when doing sports.
-        3. Sedentary reminder of Children (including Image and Vibration) and can choose to do sports or not.
-        4. The page can be switched by sliding the left or right edges of the screen.
-        5. Every page can be slided up and down to scan.
+        3. Record the environment detections such as humidity， temperature and altitude.
+        4. Sedentary reminder of Children (including Image and Vibration) and can choose to do sports or not.
+        5. The page can be switched by sliding the left or right edges of the screen.
+        6. Every page can be slided up and down to scan.
 
 To be continued...
         
